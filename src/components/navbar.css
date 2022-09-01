@@ -1,0 +1,15 @@
+.nav{
+    background: transparent;
+    padding: 0;
+   
+}
+@media screen and (max-width: 1115px) {
+    .navbar-collapse {
+        background-color: black;
+        z-index: 3;
+        /* height: 100vh; */
+    }
+    .hid{
+        display: none;
+    }
+  }
